@@ -1,37 +1,34 @@
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
-
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
+  <a href="https://github.com/suvarileader/WhatsAsenaDuplicated/fork">
+    <img src="https://img.shields.io/github/forks/suvarileader/WhatsAsenaDuplicated?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+  <a href="https://github.com/suvarileader/WhatsAsenaDuplicated/stargazers">
+    <img src="https://img.shields.io/github/stars/suvarileader/WhatsAsenaDuplicated?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/suvarileader/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/github/repo-size/suvarileader/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
+  <a href="httsp://github.com/suvarileader/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/codefactor/grade/github/suvarileader/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
+  <a href="https://github.com/suvarileader/WhatsAsenaDuplicated/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/suvarileader/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/suvarileader/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/github/languages/top/suvarileader/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
+  <a href="https://github.com/suvarileader">
     <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
 
   </a>
@@ -95,21 +92,20 @@ the user is responsible.
 
 ----
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/suvarileader/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/suvarileader/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
   </a>
 </p>
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/suvarileader/WhatsAsenaDuplicated/wiki)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by Developed by [SuvariLeader](https://github.com/suvarileader). Does not log into your account It is written on WhatsApp Web API.
 
 ## ❓ Duplicated?
 **WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
@@ -120,27 +116,27 @@ the user is responsible.
 
 ### Simple Method 
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/suvarileader/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suvarileader/WhatsAsenaDuplicated)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/suvarileader/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
+$ git clone https://github.com/suvarileader/WhatsAsenaDuplicated.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
+// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/suvarileader/WhatsAsenaDuplicated/wiki/config.env-Example
+// Create Config.env and edit it. Examle: https://github.com/suvarileader/WhatsAsenaDuplicated/wiki/config.env-Example
 $ node bot.js
 ```
 
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/suvarileader/WhatsAsenaDuplicated/wiki)
 
 ##
 
@@ -212,19 +208,8 @@ Your account may be banned for the following reasons:
 - Spamming Too Much (If someone complains)
 ```
 
-## Developers
-
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
-----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
-
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
-- Translators
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
